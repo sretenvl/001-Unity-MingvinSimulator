@@ -1,0 +1,37 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   NVIDIA
+    VRAM:     4027 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sreten\Downloads\MingvinSimulator-SretenVladisavljevic\MingvinSimulator-SretenVladisavljevic_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sreten\Downloads\MingvinSimulator-SretenVladisavljevic\MingvinSimulator-SretenVladisavljevic_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sreten\Downloads\MingvinSimulator-SretenVladisavljevic\MingvinSimulator-SretenVladisavljevic_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Sreten\Downloads\MingvinSimulator-SretenVladisavljevic\MingvinSimulator-SretenVladisavljevic_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Sreten\Downloads\MingvinSimulator-SretenVladisavljevic\MingvinSimulator-SretenVladisavljevic_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sreten\Downloads\MingvinSimulator-SretenVladisavljevic\MingvinSimulator-SretenVladisavljevic_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.135 seconds
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Sreten\Downloads\MingvinSimulator-SretenVladisavljevic\MingvinSimulator-SretenVladisavljevic_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sreten\Downloads\MingvinSimulator-SretenVladisavljevic\MingvinSimulator-SretenVladisavljevic_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 4.458200 ms
+System memory in use before: 10.6 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 0.982600 ms (FindLiveObjects: 0.010800 ms CreateObjectMapping: 0.007400 ms MarkObjects: 0.111500 ms  DeleteObjects: 0.010300 ms)
+
+UnloadTime: 0.519300 ms
+System memory in use before: 20.7 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 20.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1095.
+Total: 1.085000 ms (FindLiveObjects: 0.030000 ms CreateObjectMapping: 0.009700 ms MarkObjects: 0.217200 ms  DeleteObjects: 0.014100 ms)
+
+Platform assembly: C:\Users\Sreten\Downloads\MingvinSimulator-SretenVladisavljevic\MingvinSimulator-SretenVladisavljevic_Data\Managed\Boo.Lang.dll (this message is harmless)
